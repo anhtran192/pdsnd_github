@@ -5,6 +5,6 @@ Final Project
 Description
 Github project 
 Files used
-python
+code python
 Credits 
 Class instruction
