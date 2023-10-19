@@ -7,4 +7,4 @@ Github project
 Files used
 code python
 Credits 
-Class instruction
+Class instructions
