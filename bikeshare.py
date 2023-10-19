@@ -2,12 +2,23 @@ import time
 import pandas as pd
 import numpy as np
 
+<<<<<<< HEAD
 #Start writing code here
+||||||| d66d01f
+=======
+#description added
+>>>>>>> refactoring
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+<<<<<<< HEAD
 
 #Begin the function
+||||||| d66d01f
+
+=======
+#function started
+>>>>>>> refactoring
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
